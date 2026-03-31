@@ -1,5 +1,13 @@
 # Plant Disease Detection Using CNN
 
+## Dataset
+The dataset is stored in Google Drive due to large file size.
+
+You can access the dataset here:
+https://drive.google.com/drive/folders/1UG017qMvNNOr8JaKVMvSCdxRC39qxTS1?usp=sharing
+
+After downloading, place the dataset folder in the project directory before running the notebook.
+
 ## Project Overview
 This project is a deep learning-based image classification system that detects plant diseases from leaf images. The model classifies potato plant leaves into three categories:
 - Potato Early Blight
